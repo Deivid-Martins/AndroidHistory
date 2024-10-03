@@ -7,4 +7,4 @@ making it suitable for practically all the most common screens, such as TVs, PCs
 -Site conta um pouco historia do Android. Com sistemas de adaptação para diversas telas, conseguindo
 se adequar a praticamente todas as telas mais comuns, como TVs, PCs, Tablets e Celulares.
 
-* Open Website on github pages: https://deivid-martins.github.io/AndroidHistory/
+- Open Website on github pages: https://deivid-martins.github.io/AndroidHistory/
