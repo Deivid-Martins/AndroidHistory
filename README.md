@@ -7,4 +7,5 @@ making it suitable for practically all the most common screens, such as TVs, PCs
 -Um projeto feito apenas para o estudo pessoal e para o desenvolvimento das próprias habilidades, sem propósito comercial.<br>
 -Este site conta um pouco historia do Android. Criado apenas com intuito de inicialização na tecnologia 'css'.
 
-# Open Website on github pages: https://deivid-martins.github.io/AndroidHistory/
+# Open Website on github pages:
+https://deivid-martins.github.io/AndroidHistory/
